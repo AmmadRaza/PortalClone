@@ -1,0 +1,17 @@
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/ammadraza/Desktop/Portal/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/ammadraza/Desktop/Portal/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/UnityEngine.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/UnityEditor.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ammadraza/Desktop/Portal/Temp/bin/Debug/Mono.Cecil.Mdb.dll
